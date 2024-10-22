@@ -1,0 +1,51 @@
+/* @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css"); */
+
+
+#container{
+    border: 1px solid black;
+    width: fit-content;
+    
+    border-radius: 20px;
+    padding: 5px;
+    padding-top: 15px;
+}
+#field{
+    /* fixed */
+    margin: auto;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    background-image: url('assets/img/Untitled.png');
+    background-position:  center;
+    border-radius: 10px;
+    background-size: stretch;
+
+    /* variable */
+    /* width: 700px;
+    height: 400px; */
+}
+#control{
+    display: flex;
+    margin-top :5px;
+    /* margin: auto; */
+    /* width: fit-content; */
+    /* border: 1px solid black; */
+}
+#ball{
+    /* fixed */
+    border-radius: 50%;
+    background-color: rgb(8, 6, 6);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    
+    
+   
+    
+    /* left: calc((700px - 50px - 2px) / 2); 
+    top: calc((400px - 50px - 2px) / 2); */
+
+    /* variable */
+   
+    
+}
